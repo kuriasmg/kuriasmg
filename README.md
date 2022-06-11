@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @kuriasmg
-- 👀 I’m interested in oceanography and learning python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any good ideas
 - 📫 How to reach me kuriasmg@gmail.com
 
 <!---
